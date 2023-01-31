@@ -1,3 +1,3 @@
 Portfolio Website!👋
 
-(https://tameshpokharel.netlify.app/)
+https://tameshpokharel.netlify.app/
