@@ -1,4 +1,3 @@
-# TameshPortfolio.github.io
-personal portfolio webpage
+Portfolio Website!👋
 
-Website is live at : https://tameshp.github.io/TameshPortfolio.github.io/
+https://tameshpokharel.netlify.app/
